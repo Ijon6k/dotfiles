@@ -1,0 +1,30 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="plugins" type="empty">
+    <property name="plugin-26" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-24" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-17" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-18" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-19" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-20" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+  </property>
+</channel>
