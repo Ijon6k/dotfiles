@@ -11,12 +11,13 @@
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
       <property name="icon-size" type="uint" value="0"/>
-      <property name="size" type="uint" value="32"/>
+      <property name="size" type="uint" value="34"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="14"/>
         <value type="int" value="1"/>
         <value type="int" value="23"/>
         <value type="int" value="26"/>
+        <value type="int" value="25"/>
         <value type="int" value="24"/>
         <value type="int" value="27"/>
         <value type="int" value="2"/>
@@ -31,12 +32,9 @@
         <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="7"/>
-        <value type="int" value="28"/>
       </property>
       <property name="enable-struts" type="bool" value="true"/>
-      <property name="leave-opacity" type="uint" value="100"/>
-      <property name="background-style" type="uint" value="0"/>
-      <property name="enter-opacity" type="uint" value="100"/>
+      <property name="leave-opacity" type="uint" value="98"/>
     </property>
     <property name="panel-2" type="empty">
       <property name="autohide-behavior" type="uint" value="1"/>
@@ -73,26 +71,14 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-legacy-items" type="array">
-        <value type="string" value="wi-fi network connection “erik” active: erik (78%)"/>
-        <value type="string" value="no network connection"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (76%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (62%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (77%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (69%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (67%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (70%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (73%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (71%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (63%)"/>
-        <value type="string" value="wi-fi network connection “erik” active: erik (74%)"/>
         <value type="string" value="wi-fi network connection “erik” active: erik (72%)"/>
+        <value type="string" value="wi-fi network connection “erik” active: erik (62%)"/>
+        <value type="string" value="wi-fi network connection “erik” active: erik (74%)"/>
         <value type="string" value="ethernet network connection “wired connection 1” active"/>
         <value type="string" value="firewall-applet"/>
         <value type="string" value=""/>
       </property>
       <property name="known-items" type="array">
-        <value type="string" value="flameshot"/>
-        <value type="string" value="stacer"/>
         <value type="string" value="firewall-applet"/>
       </property>
     </property>
@@ -161,16 +147,10 @@
       <property name="menu-height" type="int" value="400"/>
       <property name="menu-opacity" type="int" value="98"/>
       <property name="recent" type="array">
-        <value type="string" value="thunar.desktop"/>
-        <value type="string" value="firefox.desktop"/>
-        <value type="string" value="xfce-session-settings.desktop"/>
         <value type="string" value="xfce-backdrop-settings.desktop"/>
         <value type="string" value="xfce-display-settings.desktop"/>
-        <value type="string" value="kitty.desktop"/>
-        <value type="string" value="xfce-keyboard-settings.desktop"/>
-        <value type="string" value="xfce4-terminal-emulator.desktop"/>
-        <value type="string" value="xfce-ui-settings.desktop"/>
-        <value type="string" value="lightdm-gtk-greeter-settings.desktop"/>
+        <value type="string" value="org.gnome.FileRoller.desktop"/>
+        <value type="string" value="xfce4-file-manager.desktop"/>
       </property>
     </property>
     <property name="plugin-7" type="string" value="actions">
@@ -204,15 +184,20 @@
         <value type="string" value="17329953093.desktop"/>
       </property>
     </property>
+    <property name="plugin-25" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17329952992.desktop"/>
+      </property>
+    </property>
     <property name="plugin-26" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="17676224031.desktop"/>
         <value type="string" value="17329952831.desktop"/>
+        <value type="string" value="17679781901.desktop"/>
+        <value type="string" value="17679781922.desktop"/>
       </property>
     </property>
     <property name="plugin-27" type="string" value="separator">
       <property name="style" type="uint" value="2"/>
     </property>
-    <property name="plugin-28" type="string" value="xfce4-clipman-plugin"/>
   </property>
 </channel>

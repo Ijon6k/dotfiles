@@ -4,12 +4,12 @@
 configs:
 - level: 0
   monitors:
-  - id: "7ecd47eef11609d49711a47bfd6c68726fd990ea"
-    display_name: "None-1"
+  - id: "51746acfd942355d80c7bda36cb85d8665f7dfd4"
+    display_name: "Chimei Innolux Corporation 0x14D6 (eDP-1)"
     geometry:
       x: 0
       y: 0
-      width: 1024
+      width: 1366
       height: 768
   icons: {}
 - level: 0
@@ -21,27 +21,4 @@ configs:
       y: 0
       width: 1920
       height: 1080
-  icons:
-    "/home/adfx/Desktop/xfce-backdrop-settings.desktop":
-      row: 0
-      col: 2
-    "/home/adfx/Desktop/dev.zed.Zed-Preview.desktop":
-      row: 0
-      col: 0
-- level: 0
-  monitors:
-  - id: "51746acfd942355d80c7bda36cb85d8665f7dfd4"
-    display_name: "Chimei Innolux Corporation 0x14D6 (eDP-1)"
-    geometry:
-      x: 0
-      y: 0
-      width: 1366
-      height: 768
-  - id: "4ae3dd3e67e4cdc97ab237fc0bd117f768767e37"
-    display_name: "Chimei Innolux Corporation 0x14D6 (eDP1)"
-    geometry:
-      x: 1920
-      y: 0
-      width: 1366
-      height: 768
   icons: {}
